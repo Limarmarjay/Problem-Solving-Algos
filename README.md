@@ -1,1 +1,1 @@
-Here, I will be providing a sample of some solutions I applied to multiple leetcode problems I have worked on.
+Here, I will be providing a collection of efficient algorithms solving various computational problems and coding challenges
