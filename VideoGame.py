@@ -8,7 +8,9 @@ class GamePlayer:
         self.outfit = outfit
         self.health = health
         self.weapon = weapon
-    # Methods & Behaviors of players/Player activities 
+    # Methods & Behaviors of players/Player activities
+     
+     
     def attackPlayer(self, target, damage):
         # Reduce target's health by damage, pass in player object as target
         target.health -= damage
